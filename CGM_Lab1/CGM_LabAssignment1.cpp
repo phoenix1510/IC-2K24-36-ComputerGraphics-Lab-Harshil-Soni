@@ -7,8 +7,8 @@
  *           3. A rectangle
  *           4. A triangle
  *
- * SUBMITTED BY : AISHWARYA KUMAR SINGH 
- * Roll No      : IC-2K24-08
+ * SUBMITTED BY : Harshil Soni 
+ * Roll No      : IC-2K24-36
  */
 
 #include <graphics.h>
