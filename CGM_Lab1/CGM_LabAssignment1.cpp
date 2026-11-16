@@ -16,12 +16,10 @@
 #include <string.h>
 
 int main()
-{
-   
+{   /*This is to initialize graphics*/
     int gd = DETECT, gm;
     initgraph(&gd, &gm, (char*)"");
 
-    
     settextstyle(DEFAULT_FONT, HORIZ_DIR, 2);
     setcolor(WHITE);
     outtextxy(140, 25, (char*)"CGM LAB ASSIGNMENT - 01");
@@ -29,7 +27,7 @@ int main()
     settextstyle(DEFAULT_FONT, HORIZ_DIR, 1);
     setcolor(WHITE);
     outtextxy(200, 55, (char*)"Basic Shapes");
-    outtextxy(140, 80, (char*)"Name: Aishwarya Kumar Singh  |  Roll No: IC-2K24-08");
+    outtextxy(140, 80, (char*)"Name: Harshil Soni  |  Roll No: IC-2K24-36");
 
     setcolor(RED);
     rectangle(20, 110, 620, 430); 
